@@ -1,0 +1,64 @@
+{
+  "tests": [
+    {
+      "name": "Pregunta 01",
+      "setup": "pip3 install scikit-learn pandas numpy nltk",
+      "run": "python3 tests.py 01",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 1
+    },
+    {
+      "name": "Pregunta 02",
+      "setup": "pip3 install scikit-learn pandas numpy nltk",
+      "run": "python3 tests.py 02",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 1
+    },
+    {
+      "name": "Pregunta 03",
+      "setup": "pip3 install scikit-learn pandas numpy nltk",
+      "run": "python3 tests.py 03",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 1
+    },
+    {
+      "name": "Pregunta 04",
+      "setup": "",
+      "run": "python3 tests.py 04",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 1
+    },
+    {
+      "name": "Pregunta 05",
+      "setup": "pip3 install scikit-learn pandas numpy nltk",
+      "run": "python3 tests.py 05",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 1
+    },
+    {
+      "name": "Pregunta 06",
+      "setup": "pip3 install scikit-learn pandas numpy nltk",
+      "run": "python3 tests.py 06",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 1
+    }
+  ]
+}
