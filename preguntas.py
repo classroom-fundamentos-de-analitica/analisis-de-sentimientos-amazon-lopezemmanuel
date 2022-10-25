@@ -142,8 +142,8 @@ def pregunta_04():
 
     pipeline = Pipeline(
         steps=[
-            ("countVectorizer", countVectorizer),
-            ("bernoulliNB", BernoulliNB()),
+            ("CountVectorizer", countVectorizer),
+            ("BernoulliNB", BernoulliNB()),
         ]
     )
 
