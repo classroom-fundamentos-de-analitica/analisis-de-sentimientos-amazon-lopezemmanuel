@@ -83,6 +83,7 @@ def pregunta_03():
     # Importe CountVectorizer
 
     from nltk.stem.porter import PorterStemmer
+    from sklearn.feature_extraction.text import CountVectorizer
 
     # Cree un stemeer que use el algoritmo de Porter.
 
